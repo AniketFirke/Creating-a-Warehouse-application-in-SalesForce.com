@@ -1,7 +1,6 @@
 # To-create-a-warehouse-application-in-salesforce.com
 
-## AIM:
-To create a warehouse application in salesforce.com
+## AIM: Creating a Warehouse application in SalesForce.com.
 
 ### Types of Applications in SFDC
 
