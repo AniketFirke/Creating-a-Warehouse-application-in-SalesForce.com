@@ -15,12 +15,15 @@ In Salesforce we can create, manage and customise both applications according to
 ### Step 1: 
 Log into your developer
 
-![image](https://github.com/user-attachments/assets/916c181b-4ad7-4211-8d53-df106fa02e34)
+![image](https://github.com/user-attachments/assets/e8d0678a-c944-4d93-913c-876c116ad2c5)
+
 
 ### Step 2:
  Click the Setup Link (upper-right corner).
 
- ![Screenshot (420)](https://github.com/user-attachments/assets/76be86af-d8c5-493a-8d6f-4ef56757b190)
+![Screenshot (420)](https://github.com/user-attachments/assets/2cae2e19-b5eb-4448-a94f-1deb4f5760c8)
+
+
 
  ### Step 3:
  In the Left Navigation, Platform tools, then click App Manager
@@ -39,7 +42,8 @@ After Next, define the fields for the custom app.
 •	App Name: Search Service.
 •	Description: Search Service is one app where we manage all the business data and catalogues.
  
- ![Screenshot (422)](https://github.com/user-attachments/assets/7e70b238-5156-4c2b-a4bc-57cf5300ca95)
+![Screenshot (422)](https://github.com/user-attachments/assets/b335dbdc-4a60-4955-8a90-1eb57a146592)
+
 
 
 ### Step 6:
@@ -50,14 +54,15 @@ Note: Before inserting an image for the logo you need to use the following proce
 ### Step 7: 
 Select Console Option
 
-![Screenshot (423)](https://github.com/user-attachments/assets/305a152a-5507-45cd-ad07-123a47e559f8)
+![Screenshot (425)](https://github.com/user-attachments/assets/7e023e45-b715-45ec-b1a7-70cba2f933f8)
 
 
 
 ### Step 8: 
 Select a utility item
 
-![Screenshot (424)](https://github.com/user-attachments/assets/103bf5eb-6754-4318-bbb3-64d2143fa27c)
+![Screenshot (424)](https://github.com/user-attachments/assets/7ada45eb-4ac5-412f-8509-9e237be3bde8)
+
 
 
 
@@ -65,7 +70,8 @@ Select a utility item
 ### Step 9: 
 Select any of the user profiles. Then Click Save &Finish
 
-![Screenshot (425)](https://github.com/user-attachments/assets/683be649-1f9b-45b5-a83d-2deccfb5668e)
+![Screenshot (425)](https://github.com/user-attachments/assets/0f72e7d0-b324-4111-8d73-0361743d1542)
+
 
 
  
