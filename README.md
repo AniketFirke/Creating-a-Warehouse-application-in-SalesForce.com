@@ -54,7 +54,7 @@ Note: Before inserting an image for the logo you need to use the following proce
 ### Step 7: 
 Select Console Option
 
-![Screenshot (425)](https://github.com/user-attachments/assets/7e023e45-b715-45ec-b1a7-70cba2f933f8)
+
 
 
 
